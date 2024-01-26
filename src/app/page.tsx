@@ -1,5 +1,5 @@
 'use client'
-import styles from '*.module.css'
+import styles from './page.module.css'
 import { useEffect, useState } from 'react'
 
 export default function Home() {
